@@ -1,4 +1,39 @@
-body {
-background-color: #A0CFA9;
-
+body{
+  background-color: #4B5043;
+}
+h1{
+  color: #090909;
+  text-align: center;
+  font-size: 90px;
+  letter-spacing: 5px;
+  text-shadow: 7px 1px #8DDBE0;
+  font-family: Times new roman;
+}
+p{
+  text-align: center;
+  color: #292929;
+  font-size: 50px;
+  letter-spacing: 3px;
+  background: #8DDBE0;
+}
+ul {
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color: #9BC4BC;
+  position: fixed;
+}
+li {
+  display: inline;
+  float: left;
+}
+li a {
+  display: block;
+  text-decoration: none;
+  padding: 10px 50px;
+  font-size: 23px;
+  color: #090909;
+  font-family: Times new roman;
 }
